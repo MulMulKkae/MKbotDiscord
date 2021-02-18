@@ -1,0 +1,24 @@
+{
+  "name": "mkbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.2",
+    "discord.js": "^12.5.1",
+    "ffmpeg": "^0.0.4",
+    "ytdl-core": "^4.4.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "a": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MulMulKkae/MKbotDiscord.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MulMulKkae/MKbotDiscord/issues"
+  },
+  "homepage": "https://github.com/MulMulKkae/MKbotDiscord#readme"
+}
